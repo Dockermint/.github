@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dockermint.io">
-    <img src="profile/logo.svg" alt="Dockermint" width="420" />
+    <img src="logo.svg" alt="Dockermint" width="420" />
   </a>
 </p>
 
