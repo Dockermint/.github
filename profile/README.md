@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>The first CD Pipeline built for Cosmos SDK node operators.</b><br/>
+  <b>The first CI/CD Pipeline built for Cosmos SDK node operators.</b><br/>
   Build and deploy deterministic Docker images automatically.
 </p>
 
